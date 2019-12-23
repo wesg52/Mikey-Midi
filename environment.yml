@@ -1,0 +1,10 @@
+name: midi
+dependencies:
+  - python=3.6
+  - numpy
+  - pandas
+  - nb_conda_kernels
+  - matplotlib
+  - pip:
+    - pretty_midi
+    - pyo
