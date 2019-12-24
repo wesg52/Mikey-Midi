@@ -40,6 +40,12 @@ The tutorial is contained in a series of jupyter notebooks. Notebooks are an exc
 
 After the basics are out of the way, we can start with the actual MIDI concepts. I am not as musical, so I don't even really know what the right things to teach you are, but hopefully I can get you a decent foundation and you can look up specific things as you need them (learning how to Google what you need is a top 3 most important skill for a programmer).
 
+To start the tutorial, run
+```
+jupyter notebook
+```
+in your anaconda prompt in the folder containing the notebooks. Select the correct notebook and ensure that the kernel is set to `midi`
+
 When you think you finish a notebook, run 
 ```
 git add xyz.ipynb
